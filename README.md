@@ -9,5 +9,6 @@ https://batikinha.github.io/copy_instagram_/
 
 <h3>Disclaimer</h3>
 O código está apresentando diferenças entre a execução na máquina e no site. 
+Eu não sou, de forma alguma, detentora da ideia original do código. Segui as aulas da plataforma e, juntamente com a professora, desenvolvi o site.
 
 
