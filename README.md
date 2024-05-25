@@ -2,7 +2,7 @@
 Feito por meio da DIO, com o objetivo de copiar a página de login do Instagram no navegador.
 
 <h1>Screenshot</h1>
-<img href="login.png">
+<img src="/img/login.png">
 
 <h2>Link:</h2>
 https://batikinha.github.io/copy_instagram_/
