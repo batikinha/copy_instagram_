@@ -1,5 +1,5 @@
-<h1>Sobre o projeto</h1>
-Feito por meio da DIO, com o objetivo de copiar a página de login do Instagram no navegador.
+<h1>About the project</h1>
+Made through DIO, with the aim of copying the Instagram login page in the browser.
 
 <h1>Screenshot</h1>
 <img src="/img/login.png">
@@ -8,7 +8,6 @@ Feito por meio da DIO, com o objetivo de copiar a página de login do Instagram 
 https://batikinha.github.io/copy_instagram_/
 
 <h3>Disclaimer</h3>
-O código está apresentando diferenças entre a execução na máquina e no site. 
-Eu não sou, de forma alguma, detentora da ideia original do código. Segui as aulas da plataforma e, juntamente com a professora, desenvolvi o site.
-
+The code is showing differences between execution on the machine and on the website. 
+I am in no way the owner of the original idea of ​​the code. I followed the platform's classes and, together with the teacher, developed the website.
 
